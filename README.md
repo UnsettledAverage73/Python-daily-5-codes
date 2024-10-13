@@ -1,1 +1,4 @@
-# Python-daily-5-codes
+stuff !!
+
+required consistency : so
+code with concept ....
